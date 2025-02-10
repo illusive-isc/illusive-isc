@@ -24,7 +24,7 @@
 # Uncomment this line if you wish to ignore the asset store tools plugin
 /[Aa]ssets/XR*
 /[Pp]ackages/*
-!/[Pp]ackages/ill*
+!/[Pp]ackages/[Ii][Ll][Ll][Ss]*
 
 
 # Visual Studio cache directory
